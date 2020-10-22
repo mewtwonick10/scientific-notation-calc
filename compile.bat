@@ -1,0 +1,1 @@
+gcc .\scientific-notation-calc.c -o .\scientific-notation-calc  
